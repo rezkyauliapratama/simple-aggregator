@@ -1,0 +1,15 @@
+mypy
+autopep8
+flake8
+pytest
+bandit
+pydocstyle
+sqlalchemy
+psycopg2-binary
+pydantic
+jsonformatter
+pytz
+pysftp
+boto3
+requests
+dependency-injector
